@@ -1,3 +1,21 @@
+CC0 1.0 Universal Public Domain Dedication
+
+Repository: Line-4-Mechanical-Downtime-Reconciliation
+
+This repository and all files listed below are dedicated to the public domain under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+
+Covered input files:
+
+1. MECH_L4_asset_register_and_tag_map.csv
+2. MECH_L4_CMMS_work_order_export.csv
+3. MECH_L4_vibration_temperature_route_log.csv
+4. MECH_L4_pump_curve_and_process_readings.csv
+5. MECH_L4_compressed_air_pressure_trend.csv
+6. MECH_L4_spares_inventory_and_purchase_history.csv
+7. MECH_L4_operator_shift_notes.docx
+8. MECH_L4_alignment_baseplate_report.docx
+9. MECH_L4_OEM_service_excerpt.docx
+
 Creative Commons Legal Code
 
 CC0 1.0 Universal
