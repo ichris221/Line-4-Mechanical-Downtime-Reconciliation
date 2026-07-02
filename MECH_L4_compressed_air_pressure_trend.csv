@@ -1,0 +1,20 @@
+source_id,timestamp_local,event_window,plant_header_A4_2_bar,PP4101_panel_inlet_bar,FRL4103_outlet_bar,DV4103_pilot_bar,RF4101_fault_code,DV4103_stroke_ms,filler_speed_bpm,condensate_drained_ml,compressor_status,operator_comment,technician_note
+AIR-001,2026-02-02 05:58,pre-fault,6.5,6.3,5.4,5.2,none,420,175,not recorded,compressor 2 loaded,diverter sluggish after sanitation,static gauge only
+AIR-002,2026-02-02 06:08,fault,6.4,6.2,4.7,4.6,F17,620,185,not recorded,compressor 2 loaded,plant air looked okay on wall gauge,no calibrated local gauge used
+AIR-003,2026-02-02 06:28,restart,6.5,6.3,5.2,5.0,none,420,185,not recorded,compressor 2 loaded,restarted after manual cycles,local pressure still below setpoint
+AIR-004,2026-02-04 06:15,fault,6.6,6.4,4.8,4.7,F17,590,190,not recorded,compressor 1 loaded,alarm at first start,old asset RF-4011 used in WO
+AIR-005,2026-02-04 06:42,restart,6.5,6.3,5.1,5.0,none,450,190,not recorded,compressor 1 loaded,speed held at 190 bpm,dynamic outlet not verified
+AIR-006,2026-02-06 15:35,inspection,6.4,6.2,5.3,5.1,none,430,0,35,compressor 2 loaded,water seen in bowl,bowl drained but filter not replaced
+AIR-007,2026-02-07 00:21,fault,6.3,6.1,4.6,4.5,F17; reject gate not clear,650,205,not recorded,compressor 2 loaded,plant air okay,local pressure trend low during valve cycling
+AIR-008,2026-02-07 00:47,restart,6.4,6.2,5.0,4.9,none,500,190,not recorded,compressor 2 loaded,two purge cycles before restart,borderline pilot pressure
+AIR-009,2026-02-08 12:10,normal production,6.5,6.3,5.3,5.2,none,430,198,not recorded,compressor 1 loaded,no filler stop,local outlet below desired 5.6 bar but no trip
+AIR-010,2026-02-09 14:50,fault,6.4,6.2,5.0,4.9,reject count mismatch,510,206,not recorded,compressor 1 loaded,diverter slow,regulator bypass test later improves stroke
+AIR-011,2026-02-09 15:20,bypass test,6.5,6.3,5.7,5.6,none,350,0,not recorded,compressor 1 loaded,manual test only,supports FRL/regulator restriction
+AIR-012,2026-02-11 20:15,normal production,6.2,6.0,5.1,5.0,none,470,200,not recorded,compressor 2 loaded,plant header at low side but acceptable,local margin low
+AIR-013,2026-02-12 01:25,fault,6.3,6.1,4.5,4.4,F17,680,210,not recorded,compressor 2 loaded,alarm after valve bank cycled,header remained above 6.2 for most of window
+AIR-014,2026-02-12 01:45,fault recovery,6.2,6.0,4.8,4.7,F17 cleared then returned,610,200,not recorded,compressor 2 loaded,operator says air dips when filler valves actuate,dynamic local pressure unstable
+AIR-015,2026-02-12 02:25,inspection,6.4,6.2,5.1,5.0,none,490,0,45,compressor 2 loaded,bowl water line visible,no element fitted on night shift
+AIR-016,2026-02-13 06:45,repair start,6.5,6.3,4.9,4.8,none,520,0,60,compressor 1 loaded,dark filter element removed,repair begins
+AIR-017,2026-02-13 07:45,post repair,6.5,6.3,5.6,5.5,none,340,0,60,compressor 1 loaded,calibrated gauge used,outlet reset to 5.6 bar
+AIR-018,2026-02-13 12:00,production verification,6.4,6.2,5.6,5.5,none,345,210,not recorded,compressor 1 loaded,no F17 fault,valve cycling normal
+AIR-019,2026-02-14 06:30,production verification,6.3,6.1,5.5,5.4,none,350,210,not recorded,compressor 2 loaded,no F17 during 90 min run,keep bowl drain daily

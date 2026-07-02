@@ -1,0 +1,35 @@
+source_id,record_type,timestamp_local,pump_or_curve_speed_hz,flow_m3h,head_m,suction_pressure_bar_g,discharge_pressure_bar_g,product_temp_C,vfd_current_A,line_speed_bpm,strainer_dp_bar,PHE_dp_bar,seal_leak_observed,noise_observed,note
+PC-C001,curve,curve sheet revision 2025-11-18,50,0,36.5,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C002,curve,curve sheet revision 2025-11-18,50,8,34.0,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C003,curve,curve sheet revision 2025-11-18,50,12,31.5,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C004,curve,curve sheet revision 2025-11-18,50,16,29.2,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C005,curve,curve sheet revision 2025-11-18,50,18,28.0,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C006,curve,curve sheet revision 2025-11-18,50,20,26.6,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C007,curve,curve sheet revision 2025-11-18,50,22,24.8,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C008,curve,curve sheet revision 2025-11-18,48,0,33.6,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C009,curve,curve sheet revision 2025-11-18,48,8,31.3,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C010,curve,curve sheet revision 2025-11-18,48,12,29.0,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C011,curve,curve sheet revision 2025-11-18,48,16,26.9,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C012,curve,curve sheet revision 2025-11-18,48,18,25.8,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C013,curve,curve sheet revision 2025-11-18,48,20,24.5,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C014,curve,curve sheet revision 2025-11-18,48,22,22.9,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C015,curve,curve sheet revision 2025-11-18,46,0,30.9,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C016,curve,curve sheet revision 2025-11-18,46,8,28.8,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C017,curve,curve sheet revision 2025-11-18,46,12,26.7,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C018,curve,curve sheet revision 2025-11-18,46,16,24.8,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C019,curve,curve sheet revision 2025-11-18,46,18,23.8,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-C020,curve,curve sheet revision 2025-11-18,46,20,22.6,,,20,,,,,,,"Curve is for clean water, 132 mm equivalent impeller; apply product density correction only if documented."
+PC-R001,field reading,2026-02-02 06:40,48.0,16.9,26.9,-0.16,2.42,18,12.8,205,not fitted,0.54,no,none,baseline after sanitation
+PC-R002,field reading,2026-02-03 19:05,49.0,15.8,27.6,not fitted,2.5,19,13.6,198,not fitted,0.61,mist at guard drain,rattle near coupling,high vibration stop same evening
+PC-R003,field reading,2026-02-05 09:40,48.0,14.1,26.1,not fitted,2.35,18,13.0,176,not fitted,0.68,no,pump sounds gravelly,before strainer clean
+PC-R004,field reading,2026-02-05 10:25,48.0,16.4,26.6,not fitted,2.4,18,13.2,198,not fitted,0.57,no,reduced noise,after strainer cleaned
+PC-R005,field reading,2026-02-07 09:35,48.0,16.4,26.4,-0.18,2.39,18,13.2,200,0.12,0.56,slight dampness,normal,after suction gauge installed
+PC-R006,field reading,2026-02-08 11:30,49.0,15.1,27.2,-0.31,2.48,18,14.0,190,0.22,0.64,intermittent mist,rattle at guard,DE temperature high at same time
+PC-R007,field reading,2026-02-10 14:15,46.0,14.0,24.0,-0.35,2.2,18,12.7,178,0.28,0.66,mist continues,gravelly at suction,after WO-57291 close-out says seal replaced
+PC-R008,field reading,2026-02-11 05:20,46.0,14.4,24.2,-0.37,2.23,18,12.8,182,0.31,0.69,visible drip at seal groove,gravelly,early shift wet floor under pump
+PC-R009,field reading,2026-02-12 09:45,48.0,13.8,25.6,-0.42,2.32,18,13.3,172,0.38,0.72,wet ring at seal gland,strong gravel sound,strainer not opened due lockout
+PC-R010,field reading,2026-02-12 17:35,48.0,15.0,26.0,-0.39,2.36,18,13.4,184,0.34,0.72,slight mist,gravelly,"before mini-CIP, PHE DP high"
+PC-R011,field reading,2026-02-12 18:05,48.0,16.8,26.8,-0.34,2.42,18,13.6,201,0.32,0.49,slight mist,reduced gravel sound,"after mini-CIP, pump suction vacuum remains high"
+PC-R012,field reading,2026-02-13 09:25,48.0,13.9,25.7,-0.45,2.33,18,13.5,174,0.42,0.55,mist at guard drain,gravelly,before strainer clean
+PC-R013,field reading,2026-02-13 10:35,48.0,16.7,26.7,-0.2,2.41,18,13.5,202,0.13,0.51,mist at guard drain,normal suction tone,after strainer 60 percent blinded was cleaned
+PC-R014,field reading,2026-02-13 13:15,49.0,16.7,27.1,-0.22,2.47,18,13.5,204,0.14,0.5,mist at guard drain,normal suction tone,flow recovered but vibration remains above alarm
